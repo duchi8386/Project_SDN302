@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "67d1a6cd8e7e218b7f8af762"
+  },
+  "order": {
+    "$oid": "67d1a6cd8e7e218b7f8af75e"
+  },
+  "method": "Bank Transfer",
+  "status": "Pending",
+  "createdAt": {
+    "$date": "2025-03-12T15:22:53.193Z"
+  },
+  "__v": 0
+}]

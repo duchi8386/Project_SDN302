@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "67cffe16dc7b54c0044d2937"
+  },
+  "title": "Quiz Kiểm Tra Loại Da",
+  "description": "Bài kiểm tra giúp bạn xác định loại da của mình dựa trên các câu trả lời.",
+  "questions": [
+    {
+      "$oid": "67cffbffdc7b54c0044d292b"
+    },
+    {
+      "$oid": "67cffbffdc7b54c0044d292c"
+    },
+    {
+      "$oid": "67cffbffdc7b54c0044d292d"
+    },
+    {
+      "$oid": "67cffbffdc7b54c0044d292e"
+    },
+    {
+      "$oid": "67cffbffdc7b54c0044d292f"
+    },
+    {
+      "$oid": "67cffbffdc7b54c0044d2930"
+    },
+    {
+      "$oid": "67cffbffdc7b54c0044d2931"
+    },
+    {
+      "$oid": "67cffbffdc7b54c0044d2932"
+    },
+    {
+      "$oid": "67cffbffdc7b54c0044d2933"
+    },
+    {
+      "$oid": "67cffbffdc7b54c0044d2934"
+    }
+  ],
+  "createdAt": "2025-03-10T12:00:00Z",
+  "__v": 1
+}]
